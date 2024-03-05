@@ -1,3 +1,3 @@
 new = "Hello World"
 
-print(f"python " + new)
+print(f"Earth " + new)
